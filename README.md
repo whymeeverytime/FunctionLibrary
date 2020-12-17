@@ -4,6 +4,6 @@ This collection of classes will contain some of my favorite mathematical functio
 
 ---
 
-Most methods will be static. Methods are in [<ins>/src/functionlibrary</ins>](https://github.com/whymeeverytime/FunctionLibrary/tree/master/src/functionlibrary)
+Most methods will be static. Methods are at [<ins>/src/functionlibrary</ins>](https://github.com/whymeeverytime/FunctionLibrary/tree/master/src/functionlibrary)
 
 ![Monkey.gif](http://haktan.bilen.ug.bilkent.edu.tr/Completely_RanD0m/12.gif)
