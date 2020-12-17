@@ -4,6 +4,6 @@ This collection of classes will contain some of my favorite mathematical functio
 
 ---
 
-Most methods will be static. Methods are in _/src/functionlibrary_
+Most methods will be static. Methods are in __/src/functionlibrary__
 
 ![Monkey.gif](http://haktan.bilen.ug.bilkent.edu.tr/Completely_RanD0m/12.gif)
