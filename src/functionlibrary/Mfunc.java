@@ -1,6 +1,6 @@
 package functionlibrary;
 
-public class Func {
+public class Mfunc {
 
     public static long factorial( int theNumber ) {
         if ( theNumber == 1 ) {

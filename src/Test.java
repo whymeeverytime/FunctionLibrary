@@ -6,6 +6,6 @@ import functionlibrary.*;
 */ 
 public class Test {
     public static void main( String[] args ) {
-        System.out.printf( "%n%s%d%n", "The factorial of 5 (5!): ", Func.factorial( 5 ) );
+        System.out.printf( "%n%s%d%n", "The factorial of 5 (5!): ", Mfunc.factorial( 5 ) );
     }
 }
